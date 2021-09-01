@@ -26,7 +26,7 @@
 <h2 id=installation>:clipboard: Installation</h2>
 
 1. Clone the repo.
-2. Within the 'slides' directory you will find the course's lecture slides.
+2. Within the <a href="https://github.com/danhpaiva/university-git-devops/tree/main/slide" target="_blank">slide</a> directory you will find the course's lecture slides.
 
 <h2 id=technology>:toolbox: Technology</h2>
 
