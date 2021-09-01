@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-    <img src="./images/git.svg" width="350">
+    <img src="./src/git.svg" width="350">
 </p>
 
 <p align="center">
